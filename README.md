@@ -20,6 +20,16 @@ List of 4–6 concrete tasks participants will complete. Clearly bold important 
 - **Task 2:** [Brief description of the second hands-on activity.]
 - **Task 3:** [Brief description of the third hands-on activity.]
 - **Task 4 (Optional)**: [Additional extension or customization step.]
+
+### ⏲️ Estimated Lab Timeline
+
+Provide a brief agenda to help SEs understand pacing:
+
+- **Phase 1 (Env setup & model training):** ~45 min
+- **Phase 2 (Model registry & batch inference):** ~30 min
+- **Phase 3 (Monitoring & cleanup):** ~15 min
+
+Include checkpoints (DORAs), recommended "stop points," and common customer questions.
   
 ---
 
@@ -42,6 +52,7 @@ List of 4–6 concrete tasks participants will complete. Clearly bold important 
 
 - **Business value:** Clearly explain how this lab impacts KPIs (e.g. accelerates time-to-insight by X%, reduces manual processes by Y hours per month).
 - **Pricing impact:** Highlight compute and storage cost expectations and best practices for efficient resource use (e.g., turning off resources when idle to reduce costs by Z%).
+- **Customer stories:** Link to decks, blogs or other information to promote reference stories.
 
 ---
 
@@ -81,18 +92,6 @@ Internally helpful setup requirements:
 - **Knowledge prerequisites:** List required skills or prior knowledge.
 - **Account and entitlement checks:** Necessary roles/users, network policies, external functions.
 - **Hardware/software:** Supported browsers, recommended accounts, required Python packages.
-
----
-
-## ⏲️ Estimated Lab Timeline
-
-Provide a brief agenda to help SEs understand pacing:
-
-- **Phase 1 (Env setup & model training):** ~45 min
-- **Phase 2 (Model registry & batch inference):** ~30 min
-- **Phase 3 (Monitoring & cleanup):** ~15 min
-
-Include checkpoints (DORAs), recommended "stop points," and common customer questions.
 
 ---
 

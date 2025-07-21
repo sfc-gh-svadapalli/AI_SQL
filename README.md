@@ -20,7 +20,7 @@ This lab introduces a new era for SQL analytics, bridging the gap between analys
   * Filter data using AI SQL
   * Aggregate data using AI SQL
   * Summarize data using AI SQL
-- **[Part 2:]('/lab_instructions/Part2_RestaurantReview.md)** The second part of the lab will examine restaurant reviews and pictures of menu items. This data will be aggregated to draw conclusions about reviews available on Doordash. AI will also be used to join restaurant images with text data for multimodal analysis in a single place.
+- **[Part 2:](/lab_instructions/Part2_RestaurantReview.md)** The second part of the lab will examine restaurant reviews and pictures of menu items. This data will be aggregated to draw conclusions about reviews available on Doordash. AI will also be used to join restaurant images with text data for multimodal analysis in a single place.
   * Ingest text data related to DoorDash reviews
   * Ingest Images and generate descriptions using Cortex to analyze the images
   * Filter data using AI SQL

@@ -75,7 +75,7 @@ Provide a brief agenda to help SEs understand pacing:
 ```bash
 ├── README.md                # Main entry point
 ├── config                   # Configuration for DORA            
-├── notebooks                # Interactive Jupyter notebooks
+├── notebooks                # Interactive notebooks
 ├── data                     # Datasets (CSV, JSON) or external links
 │ ├──AISL Equity Research
 │ │ ├──EquityDOCS            # Unstructured data (PDFs) for Lab

@@ -117,7 +117,7 @@ Common errors and resolutions:
 
 > * **Issue:** NotebookSQLException: 100351: Request failed for external function COMPLETE$V6 with remove service error: ...
 > * **Cause:** This happens when the model is busy and fails after a certain amount of time has passed
-> * **Solution:** try using claude-3-sonnet as the model or try another time as this will complete it just depends on the loads on the model
+> * **Solution:** try using `claude-3-sonnet` as the model or try another time as this will complete it just depends on the loads on the model
 
 ---
 

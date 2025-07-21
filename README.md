@@ -41,7 +41,7 @@ Provide a brief agenda to help SEs understand pacing:
 - [Why this Matters](#-why-this-matters)
 - [Suggested Discovery Questions](#-suggested-discovery-questions)
 - [Repository Structure](#-repository-structure)
-- [Prerequisites & Setup Details](#-prerequisites--setup-details)
+- [Prerequisites & Setup Details](#-prerequisites--setup-details**)
 - [Estimated Lab Timeline](#-estimated-lab-timeline)
 - [Troubleshooting & FAQ](#-troubleshooting--faq)
 - [Cleanup & Cost-Stewardship Procedures](#-cleanup--cost-stewardship-procedures)

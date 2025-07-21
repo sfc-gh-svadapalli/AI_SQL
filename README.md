@@ -73,18 +73,18 @@ Provide a brief agenda to help SEs understand pacing:
 ## 📂 Repository Structure
 
 ```bash
-├── README.md           # Main entry point
-├── config/             # Configuration for DORA            
-├── notebooks/          # Interactive Jupyter notebooks
-├── data/               # Datasets (CSV, JSON) or external links
+├── README.md                # Main entry point
+├── config                   # Configuration for DORA            
+├── notebooks                # Interactive Jupyter notebooks
+├── data                     # Datasets (CSV, JSON) or external links
 │ ├──AISL Equity Research
-│ │ ├──EquityDOCS       # Unstructured data (PDFs) for Lab
+│ │ ├──EquityDOCS            # Unstructured data (PDFs) for Lab
 │ ├──AISL Resturant Review
-│ │ ├──Datasets         # Doordash Data
-│ │ ├──Extras           # Python Helper file for notebooks
-│ │ ├──Food Images      # Unstructured data (images) for Lab
-├── lab_instructions/   # Step-by-step detailed instructions
-└── troubleshooting/    # Common issues and resolutions
+│ │ ├──Datasets              # Doordash Data
+│ │ ├──Extras                # Python Helper file for notebooks
+│ │ ├──Food Images           # Unstructured data (images) for Lab
+├── lab_instructions         # Step-by-step detailed instructions
+└── troubleshooting          # Common issues and resolutions
 ```
 ---
 

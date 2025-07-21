@@ -38,14 +38,14 @@ Provide a brief agenda to help SEs understand pacing:
 
 ## 📖 Table of Contents
 
-- [Why this Matters](#why-this-matters)
-- [Suggested Discovery Questions](#suggested-discovery-questions)
-- [Repository Structure](#repository-structure)
-- [Prerequisites & Setup Details](#prerequisites--setup-details)
-- [Estimated Lab Timeline](#estimated-lab-timeline)
-- [Troubleshooting & FAQ](#troubleshooting--faq)
-- [Cleanup & Cost-Stewardship Procedures](#cleanup--cost-stewardship-procedures)
-- [Links to Internal Resources & Helpful Documents](#links-to-internal-resources--helpful-documents)
+- [Why this Matters](#-why-this-matters)
+- [Suggested Discovery Questions](#-suggested-discovery-questions)
+- [Repository Structure](#-repository-structure)
+- [Prerequisites & Setup Details](#-prerequisites--setup-details)
+- [Estimated Lab Timeline](#-estimated-lab-timeline)
+- [Troubleshooting & FAQ](#-troubleshooting--faq)
+- [Cleanup & Cost-Stewardship Procedures](#-cleanup--cost-stewardship-procedures)
+- [Links to Internal Resources & Helpful Documents](#-links-to-internal-resources--helpful-documents)
 
 ---
 

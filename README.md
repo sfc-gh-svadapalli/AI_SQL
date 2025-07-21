@@ -14,13 +14,13 @@ In this hands-on lab, you'll step into the shoes of **a Snowflake customer user 
 This lab introduces a new era for SQL analytics, bridging the gap between analysts and AI engineer capabilities. By leveraging SQL with AI-powered operators in Snowflake, analysts can easily access and analyze multimodal data at scale. The solution combines simple SQL syntax with high-performance processing at a lower cost, delivering trusted insights across the enterprise.
 
 ### 📋 What You’ll Do:
-- **Part 1:** You will utilize unstructured data found in PDF Documents to complete an Equity Anlaysis using AISQL
+- **[Part 1:](/lab_instructions/Part1_EquityResearch.md)** You will utilize unstructured data found in PDF Documents to complete an Equity Anlaysis using AISQL
   * Ingest text data related to stock market information
   * Ingest PDF documents and parse them into a table for analysis by Cortex
   * Filter data using AI SQL
   * Aggregate data using AI SQL
   * Summarize data using AI SQL
-- **Part 2:** The second part of the lab will examine restaurant reviews and pictures of menu items. This data will be aggregated to draw conclusions about reviews available on Doordash. AI will also be used to join restaurant images with text data for multimodal analysis in a single place.
+- **[Part 2:]('lab_instructions/Part2_RestaurantReview.md)** The second part of the lab will examine restaurant reviews and pictures of menu items. This data will be aggregated to draw conclusions about reviews available on Doordash. AI will also be used to join restaurant images with text data for multimodal analysis in a single place.
   * Ingest text data related to DoorDash reviews
   * Ingest Images and generate descriptions using Cortex to analyze the images
   * Filter data using AI SQL

@@ -74,8 +74,7 @@ Provide a brief agenda to help SEs understand pacing:
 
 ```bash
 ├── README.md           # Main entry point
-├── config/             # Configuration for DORA
-├── code/               
+├── config/             # Configuration for DORA            
 ├── notebooks/          # Interactive Jupyter notebooks
 ├── data/               # Datasets (CSV, JSON) or external links
 │ ├──AISL Equity Research
@@ -84,7 +83,6 @@ Provide a brief agenda to help SEs understand pacing:
 │ │ ├──Datasets         # Doordash Data
 │ │ ├──Extras           # Python Helper file for notebooks
 │ │ ├──Food Images      # Unstructured data (images) for Lab
-├── images/             # Diagrams and visual assets
 ├── lab_instructions/   # Step-by-step detailed instructions
 └── troubleshooting/    # Common issues and resolutions
 ```

@@ -143,8 +143,8 @@ Common errors and resolutions:
 
 ## 👤 Author & Support
 
-**Lab created by:** Dan Murphy – SE Enablement Senior Manager
-**Created on:** July 21, 2025 | **Last updated:** July 21, 2025
+- **Lab created by:** Dan Murphy – SE Enablement Senior Manager
+- **Created on:** July 21, 2025 | **Last updated:** July 21, 2025
 
 💬 **Need Help or Have Feedback?**  
 - Slack DM: [@dan.murphy](https://snowflake.enterprise.slack.com/team/WEJR92JS2)  

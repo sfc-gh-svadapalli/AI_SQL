@@ -2,6 +2,10 @@
 **Utilize AISQL functionality now availble in Snowflake**
 ---
 
+## 🎬 Lab Overview Video
+Watch the [6-minute Lab Overview Video](https://drive.google.com/file/d/1ghYLWgB0DM8w_qskoPa31ikxfw_XTjnk/view?usp=sharing) for a detailed walkthrough of key lab phases.
+
+---
 ## 🛠️ Hands-On Lab Overview
 
 In this hands-on lab, you'll step into the shoes of **a Snowflake customer user who is not a data science specialist** tasked with **utilizing AI to get results from the dataset you have**.

@@ -3,7 +3,7 @@
 ---
 
 ## 🎬 Lab Overview Video
-Watch the [6-minute Lab Overview Video](https://drive.google.com/file/d/1ghYLWgB0DM8w_qskoPa31ikxfw_XTjnk/view?usp=sharing) for a detailed walkthrough of key lab phases.
+Watch the [6-minute Lab Overview Video](https://drive.google.com/file/d/1ghYLWgB0DM8w_qskoPa31ikxfw_XTjnk/view?usp=sharing) for a detailed walkthrough of key lab phases. The video is only accessable to Snowflake Employees
 
 ---
 ## 🛠️ Hands-On Lab Overview

@@ -4,7 +4,7 @@
 
 ## 🎬 Lab Overview Video
 
-[![Watch the video](images/aisqloverviewthumb.jpg)](images/AISQL_overview_vid.mp4)
+- Watch this [6.5 minute overview video](https://drive.google.com/file/d/1ghYLWgB0DM8w_qskoPa31ikxfw_XTjnk/view?usp=drive_link)
 
 ---
 ## 🛠️ Hands-On Lab Overview

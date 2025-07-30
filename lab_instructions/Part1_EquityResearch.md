@@ -42,7 +42,7 @@ Create or Replace SCHEMA AISQL_HOL.EQUITYRESEARCH;
 Create or Replace STAGE AISQL_HOL.EQUITYRESEARCH.EQUITYDOCS ENCRYPTION = (TYPE = 'SNOWFLAKE_SSE');
 
 --create warehouse for lab
-create or replace WAREHOUSE IDENTIFIER('"WH_AISQL_HOL"') COMMENT = '' WAREHOUSE_SIZE = 'xsmall' AUTO_RESUME = true AUTO_SUSPEND = 300 ENABLE_QUERY_ACCELERATION = false WAREHOUSE_TYPE = 'STANDARD' MIN_CLUSTER_COUNT = 1 MAX_CLUSTER_COUNT = 1 SCALING_POLICY = 'STANDARD';
+create or replace WAREHOUSE IDENTIFIER('WH_AISQL_HOL') COMMENT = '' WAREHOUSE_SIZE = 'xsmall' AUTO_RESUME = true AUTO_SUSPEND = 300 ENABLE_QUERY_ACCELERATION = false WAREHOUSE_TYPE = 'STANDARD' MIN_CLUSTER_COUNT = 1 MAX_CLUSTER_COUNT = 1 SCALING_POLICY = 'STANDARD';
 ```
 
 7.  In the database browser, navigate to the `EQUITYDOCS` stage and upload the 7 PDFs from the [Equity Docs](/data/AISQL%20Equity%20Research/EquityDOCS/) from above that you extracted. Ensure you enable directory table to see your files listed.

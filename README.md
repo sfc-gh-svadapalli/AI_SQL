@@ -4,7 +4,7 @@
 
 ## 🎬 Lab Overview Video
 
-- Watch the [1.5-minute Lab Overview Video](images/AISQL_overview_vid.mp4) for a detailed walkthrough of key lab phases. 
+- Watch the [6-minute Lab Overview Video](https://drive.google.com/file/d/1ghYLWgB0DM8w_qskoPa31ikxfw_XTjnk/view?usp=drive_link) for a detailed walkthrough of key lab phases. 
 ---
 ## 🛠️ Hands-On Lab Overview
 

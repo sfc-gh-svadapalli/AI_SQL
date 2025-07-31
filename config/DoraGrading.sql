@@ -101,3 +101,57 @@ FROM (
             SELECT COUNT(*)
             FROM AICLASSIFY_REVIEW
         ) AS actual,
+-- -----------------------------------------------------------------------------
+-- Validate Summarizeagg_experience
+-- -----------------------------------------------------------------------------
+use database AISQL_HOL;
+use schema RESTAURANT;
+
+SELECT
+    util_db.public.se_grader(
+        step,
+        (actual = expected),
+        actual,
+        expected,
+        description
+    ) AS graded_results
+FROM
+    (
+        SELECT
+            'SEDW14' AS step,
+            (
+                SELECT
+                    COUNT(*)
+                FROM
+                    SUMMARIZEAGG_EXPERIENCE
+            ) AS actual,
+            9 AS expected,
+            'SUMMARIZEAGG successfully applied to AISQL Restaurant' AS description
+    );
+-- -----------------------------------------------------------------------------
+-- Validate AIAGG_Stregths
+-- -----------------------------------------------------------------------------
+use database AISQL_HOL;
+use schema RESTAURANT;
+
+SELECT
+    util_db.public.se_grader(
+        step,
+        (actual = expected),
+        actual,
+        expected,
+        description
+    ) AS graded_results
+FROM
+    (
+        SELECT
+            'SEDW15' AS step,
+            (
+                SELECT
+                    COUNT(*)
+                FROM
+                    AIAGG_STRENGTHS
+            ) AS actual,
+            3 AS expected,
+            'AIAGG_STRENGTHS successfully applied to AISQL Restaurant' AS description
+    );

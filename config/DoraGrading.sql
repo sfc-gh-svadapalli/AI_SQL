@@ -83,10 +83,10 @@ FROM (
 -- -----------------------------------------------------------------------------
 -- Validate AIClassify on Restaurant
 -- -----------------------------------------------------------------------------
-USE DATABASE AISQL_HOL;
-USE SCHEMA RESTAURANT;
+use database AISQL_HOL;
+use schema RESTAURANT;
 
-SELECT 
+SELECT
     util_db.public.se_grader(
         step,
         (actual = expected),
@@ -94,13 +94,19 @@ SELECT
         expected,
         description
     ) AS graded_results
-FROM (
-    SELECT 
-        'SEDW13' AS step,
-        (
-            SELECT COUNT(*)
-            FROM AICLASSIFY_REVIEW
-        ) AS actual,
+FROM
+    (
+        SELECT
+            'SEDW13' AS step,
+            (
+                SELECT
+                    COUNT(*)
+                FROM
+                    AICLASSIFY_REVIEW
+            ) AS actual,
+            100 AS expected,
+            'AICLASSIFY successfully applied to AISQL Restaurant' AS description
+    );
 -- -----------------------------------------------------------------------------
 -- Validate Summarizeagg_experience
 -- -----------------------------------------------------------------------------

@@ -65,4 +65,7 @@ The code in the lab contains pseudo-code that needs to be completed for the stat
 
 ## Step 5: Validate Using DORA
 
+**Please only complete this if you are a Snowflake Employee and part of the SE Organization**
+
 ***Run the Dora Setup and Grading found in the [/config](/config/) section***
+

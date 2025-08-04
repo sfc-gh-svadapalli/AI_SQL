@@ -46,7 +46,7 @@ FROM (
         'SEDW11' AS step,
         (
             SELECT 
-                CASEWHEN COUNT(FILE_NAME) > 2 THEN 1
+                CASE WHEN COUNT(FILE_NAME) > 2 THEN 1
                     ELSE 0
                 END
             FROM MATCHED_CANDIDATES

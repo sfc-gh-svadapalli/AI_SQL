@@ -96,7 +96,7 @@ Internally helpful setup requirements:
 - **Account and entitlement checks:** At this time all features are PuPr or GA so there are no account settings to modify
 - **Hardware/software:** Not all deployments will have the needed LLMs to run the analysis.  You might need to run the following to enable cross cloud calls
 ```sql
-ALTER ACCOUNT SET CORTEX_ENABLED_CROSS_REGION = 'ALL';
+ALTER ACCOUNT SET CORTEX_ENABLED_CROSS_REGION = 'ANY_REGION';
 ```
 
 ---

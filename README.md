@@ -138,13 +138,16 @@ Common errors and resolutions:
 
 - [Snowflake Documentation](https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql)
 - [SLACK - #feat-ai-sql](#)
+- [Go Links Employees Only](go/cortex-aisql-resources)
+- [Snowlfake usecase blog](https://www.snowflake.com/en/blog/ai-customer-analytics-competitive-advantage/)
+- [Cost Governance Dashboard](https://github.com/Snowflake-Labs/snowflake-demo-streamlit/tree/main/LLM%20Usage%20Dashboard)
 
 ---
 
 ## 👤 Author & Support
 
 - **Lab created by:** Dan Murphy – SE Enablement Senior Manager
-- **Created on:** July 21, 2025 | **Last updated:** July 21, 2025
+- **Created on:** July 21, 2025 | **Last updated:** August 14, 2025
 
 💬 **Need Help or Have Feedback?**  
 - Slack DM: [@dan.murphy](https://snowflake.enterprise.slack.com/team/WEJR92JS2)  

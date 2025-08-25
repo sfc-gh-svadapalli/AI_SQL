@@ -51,7 +51,7 @@ create or replace WAREHOUSE IDENTIFIER('WH_AISQL_HOL') COMMENT = '' WAREHOUSE_SI
 
 ## Step 3: Bring in the Market Listing for the S\&P 500 Tickers
 
-Open the Snowflake Marketplace listing and import the listing for the S\&P 500. You can leave all the defaults as they are, as this is how they will be referenced in the notebook.
+Open the Snowflake Marketplace listing and import the listing for the S\&P 500.  This listing is called: 'S & P 500 by domain and aggregated by tickers (Sample)'. You can leave all the defaults as they are (Database Name: S__P_500_BY_DOMAIN_AND_AGGREGATED_BY_TICKERS_SAMPLE), as this is how they will be referenced in the notebook.
 
 ---
 
@@ -70,6 +70,7 @@ The code in the lab contains pseudo-code that needs to be completed for the stat
 ## Step 6: Validate Using DORA
 
 ***Complete [Part2](/lab_instructions/Part2_RestaurantReview.md) then run the Dora Setup and Grading found in the [/config](/config/) section***
+
 
 
 

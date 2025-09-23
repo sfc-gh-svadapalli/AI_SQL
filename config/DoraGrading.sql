@@ -20,7 +20,7 @@ FROM (
     SELECT 
         'SEDW10' AS step,
         (
-            SELECT COUNT(RELATIVE_PATH)
+            SELECT COUNT(staged_file)
             FROM RAW_DOCS_TEXT
         ) AS actual,
         7 AS expected,

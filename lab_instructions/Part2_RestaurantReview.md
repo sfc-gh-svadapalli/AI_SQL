@@ -16,7 +16,7 @@ The second part of the lab will examine restaurant reviews and pictures of menu 
 1.  Go to the repository folder for each sections, you can choose to download a zip or download the files individually:
 * [Download Food Images](/data/AISQL%20Resturant%20Review/Food%20Images)
 * [Download Doordash Dataset](/data/AISQL%20Resturant%20Review/Datasets/)
-* [Download Notebook](/notebooks/AISQL%20Resturant%20Review.ipynb)
+* [Download Notebook](/notebooks/AISQL%20Restaurant%20Review.ipynb)
 * [Download Helper Image Viewer in Notebook](/data/AISQL%20Resturant%20Review/Extras/)
 2.  Create Snowflake Stages. Remember to choose server-side encryption for your stage, or follow the code below.
 3.  Unzip the files on your machine into separate folders for each lab.
